@@ -6,7 +6,7 @@ A demo project for the GPTs Action Guide.
 
 ```bash
 # install resources server dependencies
-pip install fastapi uvicorn
+pip install fastapi uvicorn Flask-SQLAlchemy
 ```
 
 ### Usage
